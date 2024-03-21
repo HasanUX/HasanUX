@@ -1,5 +1,5 @@
 - 👋 I'm Hasan
-- 👀 I’m interested in Front-end Engineer (also UXer)
-- 🌱 I’m currently learning React JS
-- 💞️ I’m looking to collaborate on solution-focused products and contribute in generating ROI
-- 📫 How to reach me: hrahatsharif@gmail.com
+- 👀 I’m a front-end enthusiast and UX gamer
+- 🌱 I’m currently learning product management
+- 💞️ I’m looking to collaborate on solution-focused products and contribute to generate ROI
+- 📫 How to reach me: hasansharif.com
